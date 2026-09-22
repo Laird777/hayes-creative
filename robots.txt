@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laird777.github.io/hayes-creative/sitemap.xml
